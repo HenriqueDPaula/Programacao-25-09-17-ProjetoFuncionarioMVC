@@ -1,4 +1,4 @@
-package opet.funcionarios.view;
+package opet.funcionario.view;
 
 public class FuncionarioView {
 

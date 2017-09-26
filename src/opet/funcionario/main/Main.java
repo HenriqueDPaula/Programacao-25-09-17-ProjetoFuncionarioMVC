@@ -1,4 +1,4 @@
-package opet.funcionarios.main;
+package opet.funcionario.main;
 
 public class Main {
 

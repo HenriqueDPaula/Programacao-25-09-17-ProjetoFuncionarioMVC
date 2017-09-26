@@ -1,4 +1,4 @@
-package opet.funcionarios.controller;
+package opet.funcionario.controller;
 
 public class FuncionarioController {
 

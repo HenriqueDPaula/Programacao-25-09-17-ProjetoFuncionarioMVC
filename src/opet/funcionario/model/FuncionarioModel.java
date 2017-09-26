@@ -1,4 +1,4 @@
-package opet.funcionarios.model;
+package opet.funcionario.model;
 
 public class FuncionarioModel {
 
